@@ -4,7 +4,7 @@ Eval untrusted and possibly malicious code.
 # Example
 
 ```js
-import eval from "https://deno.land/x/eval";
+import eval from "https://deno.land/x/eval/index.js";
 const ev = new Eval();
 
 ev.eval("python3", "print('hello world')")
