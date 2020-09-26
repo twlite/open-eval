@@ -1,0 +1,29 @@
+{
+  "name": "open-eval",
+  "version": "1.0.0",
+  "description": "Eval untrusted and possibly malicious code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd test && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowflake107/open-eval.git"
+  },
+  "keywords": [
+    "eval",
+    "node-eval",
+    "open-eval",
+    "piston",
+    "piston-api"
+  ],
+  "author": "Snowflake107",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Snowflake107/open-eval/issues"
+  },
+  "homepage": "https://github.com/Snowflake107/open-eval#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
