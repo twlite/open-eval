@@ -1,12 +1,6 @@
 # OpenEval
 Eval untrusted and possibly malicious code.
 
-# Installing
-
-```sh
-npm install open-eval
-```
-
 # Example
 
 ```js
